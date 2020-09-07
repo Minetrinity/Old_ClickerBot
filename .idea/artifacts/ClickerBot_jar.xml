@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClickerBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClickerBot_jar</output-path>
+    <root id="archive" name="ClickerBot.jar">
+      <element id="module-output" name="ClickerBot" />
+    </root>
+  </artifact>
+</component>
